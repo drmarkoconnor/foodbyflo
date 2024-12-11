@@ -1,0 +1,1 @@
+This website is a 2024 christmas present to my niece Florence Byrne who is training to be a professional chef. The site here is published via netlify and the domain is registered via NameCheap. Contact me if you need the domain to be transferred
