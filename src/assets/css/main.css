@@ -2358,6 +2358,17 @@ body > article {
 /* Small */
 
 @media screen and (max-width: 736px) {
+	/* Adjust image and text layout */
+	#top .image {
+		width: 100%;
+		height: auto;
+		margin-bottom: 1em;
+	}
+
+	#top p {
+		font-size: 1em;
+		line-height: 1.5em;
+	}
 	/* Basic */
 
 	body {
@@ -2569,3 +2580,4 @@ body > article {
 		margin-top: 0;
 	}
 }
+
